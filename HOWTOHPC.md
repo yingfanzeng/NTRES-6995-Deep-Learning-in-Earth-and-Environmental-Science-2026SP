@@ -1,4 +1,4 @@
-# NCAR HPC – Part I HOWTO
+# HOW TO NCAR HPC
 
 This document records the basic workflow I used to access NCAR HPC systems and run a simple job.
 The purpose is to document the steps so I can reproduce them later.
